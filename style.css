@@ -3,10 +3,15 @@
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 50px;
+  padding-top:10%;
 }
 
 .modifpart1 {
   background-color: rgba(029, 034, 036, 0.8);
+  position: fixed;
+  z-index: 20;
+  top: 0; 
+
 }
 .nav-item a {
   text-decoration: none;
